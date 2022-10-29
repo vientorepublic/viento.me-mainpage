@@ -36,7 +36,7 @@
 			<hr/>
 			<div class="link">
 				<a href="https://mirror.viento.me" target="_blank">
-					<li>Viento 미러</li>
+					<li>비엔토 미러</li>
 				</a>
 			</div>
 			<p style="display: inline-block;font-size:1.5rem;">비엔토 미러는 자유/공개 소프트웨어 비영리 미러링 서비스 입니다. 주요 사용 국가는 대한민국, 인접한 동아시아 국가입니다.</p>
@@ -47,6 +47,9 @@
 			<div class="link">
 				<a href="https://github.com/Devlobots-org" target="_blank">
 					<li>데브로봇스 위키, 디키</li>
+				</a>
+				<a href="https://gprotect.xyz" target="_blank">
+					<li>Guilds Protect</li>
 				</a>
 			</div>
 		</div>
@@ -62,6 +65,9 @@
 		<div class="detail">
 			<h2 class="subsubtitle">Contact</h2>
 			<hr/>
-			<li><b>Email : </b>op@viento.me</li>
+			<div class="link">
+				<li><b>Email : </b><a href="mailto:op@viento.me">op@viento.me</a></li>
+				<li><b>Twitter : </b><a href="https://twitter.com/vientokorea" target="_blank">@vientokorea</a></li>
+			</div>
 		</div>
 </template>
