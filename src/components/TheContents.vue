@@ -1,7 +1,19 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <template>
+	<div class="detail">
+			<h2 class="subsubtitle">Skils</h2>
+			<hr/>
+            <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" style="margin: 3px">
+            <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 3px">
+            <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin: 3px">
+            <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 3px">
+            <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="margin: 3px">
+			<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin: 3px">
+			<img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" style="margin: 3px">
+			<img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" style="margin: 3px">
+    </div>
     <div class="detail">
-			<h2 class="subsubtitle">Open APIs</h2>
+			<h2 class="subsubtitle">Open API</h2>
 			<hr/>
 			<div class="link">
 				<a href="https://api.viento.me/quote" target="_blank">

@@ -2,7 +2,6 @@
   <div class="app noselect">
     <TopHeader/>
     <TheContents/>
-    <TheSkils/>
 	<TheFooter/>
   </div>
 </template>
@@ -10,11 +9,10 @@
 <script>
 import TopHeader from './components/TopHeader.vue';
 import TheContents from './components/TheContents.vue';
-import TheSkils from './components/TheSkils.vue';
 import TheFooter from './components/TheFooter.vue';
 export default {
     name: "App",
-    components: { TopHeader, TheContents, TheSkils, TheFooter }
+    components: { TopHeader, TheContents, TheFooter }
 }
 </script>
 
